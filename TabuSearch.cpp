@@ -1,4 +1,6 @@
-
+/*
+ * 禁忌搜索求解TSP
+ */
 
 #include <iostream>
 #include <cmath>
